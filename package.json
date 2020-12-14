@@ -11,6 +11,14 @@
     "nodejs",
     "cli"
   ],
-  "author": "Mark Kozel <npm@markkozel.net>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkKozel/QuickTextColor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkKozel/QuickTextColor/issues"
+  },
+  "homepage": "https://github.com/MarkKozel/QuickTextColor#readme",
+  "author": "Mark Kozel <development@markkozel.net>",
   "license": "CC-BY-NC-SA-4.0"
 }
